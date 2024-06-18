@@ -41,8 +41,6 @@ make install
 make test
 make run
 
-![image](https://github.com/JG-wsb/zadanie3/assets/169584693/98cefaeb-3ddd-496f-b1e5-4d3244dabf81)
-
 ### Podsumowanie
 
 Wykonane zadanie obejmuje stworzenie prostej aplikacji w Pythonie, napisanie testów jednostkowych oraz utworzenie pliku Makefile do automatyzacji procesów. Wszystkie kroki są odpowiednio udokumentowane w pliku README.md.
