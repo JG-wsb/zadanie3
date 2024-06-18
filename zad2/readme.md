@@ -46,7 +46,7 @@ make run
 
 ### Podsumowanie
 
-Wykonane zadanie obejmuje stworzenie prostej aplikacji w Pythonie, napisanie testów jednostkowych oraz utworzenie pliku Makefile do automatyzacji procesów. Wszystkie kroki są odpowiednio udokumentowane w pliku README.md.
+Wykonane zadanie obejmuje stworzenie prostej aplikacji w Pythonie, napisanie testów jednostkowych oraz utworzenie pliku Makefile do automatyzacji procesów.
 
 
 
