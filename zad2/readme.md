@@ -7,6 +7,7 @@ Ten projekt zawiera prostą aplikację napisaną w Pythonie oraz skrypt Makefile
 ## Struktura projektu
 
 zad2/
+
 ├── app.py
 
 ├── test_app.py
