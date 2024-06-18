@@ -8,8 +8,11 @@ Ten projekt zawiera prostą aplikację napisaną w Pythonie oraz skrypt Makefile
 
 zad2/
 ├── app.py
+
 ├── test_app.py
+
 ├── Makefile
+
 └── README.md
 
 ### app.py
