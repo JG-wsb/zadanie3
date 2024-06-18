@@ -40,6 +40,15 @@ Plik Makefile zawiera następujące reguły:
 make install
 make test
 make run
+```
+![image](https://github.com/JG-wsb/zadanie3/assets/169584693/dba3a8fb-f83c-49ce-a5d4-baf0d5973cbe)
+
+
+### Podsumowanie
+
+Wykonane zadanie obejmuje stworzenie prostej aplikacji w Pythonie, napisanie testów jednostkowych oraz utworzenie pliku Makefile do automatyzacji procesów. Wszystkie kroki są odpowiednio udokumentowane w pliku README.md.
+
+
 
 
 
